@@ -1,0 +1,108 @@
+---
+ancestors:
+- projects/894263701206
+assetType: cloudbilling.googleapis.com/ProjectBillingInfo
+name: //cloudbilling.googleapis.com/projects/testowy-378118/billingInfo
+updateTime: '2023-02-17T18:13:12.778112Z'
+---
+ancestors:
+- projects/894263701206
+assetType: cloudresourcemanager.googleapis.com/Project
+name: //cloudresourcemanager.googleapis.com/projects/894263701206
+updateTime: '2023-02-17T18:13:06.616784Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/bigquery.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/bigquerymigration.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/bigquerystorage.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/cloudapis.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/cloudasset.googleapis.com
+updateTime: '2023-02-17T18:32:45.923385Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/clouddebugger.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/cloudtrace.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/datastore.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/logging.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/monitoring.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/servicemanagement.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/serviceusage.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/sql-component.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/storage-api.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/storage-component.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
+---
+ancestors:
+- projects/894263701206
+assetType: serviceusage.googleapis.com/Service
+name: //serviceusage.googleapis.com/projects/894263701206/services/storage.googleapis.com
+updateTime: '2023-02-17T18:13:09.684525Z'
