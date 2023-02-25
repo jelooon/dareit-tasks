@@ -1,0 +1,12 @@
+.content{
+    background-color: aqua;
+    font-family: sans-serif;
+    color: black;
+    font-size: 16px;
+    float:left;
+    margin: 10px;
+}
+#nav{
+    background-color: blueviolet;
+    font-size: 20px;
+}
